@@ -9,13 +9,8 @@ Me gusta aprender programación, crear proyectos y mejorar mis habilidades poco 
 
 ---
 
-## 🚀 Sobre mí
-
-- 🎓 Estudio **Ingeniería Informática**
-- 🌱 Actualmente aprendiendo **desarrollo web**
-- 💻 Me interesa **Data Engineering** y **ciberseguridad**
-- 🧠 Siempre intento aprender algo nuevo sobre tecnología
-- 🎯 Mi objetivo es mejorar cada día como desarrollador
+## Sobre mí
+- Estudio **Ingeniería Informática**
 
 ---
 
@@ -38,7 +33,3 @@ Me gusta aprender programación, crear proyectos y mejorar mis habilidades poco 
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 </p>
-
----
-
-⭐ *Siempre aprendiendo y mejorando poco a poco.*
