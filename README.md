@@ -16,7 +16,7 @@
   <a href="https://github.com/ClxNode">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:TU_CORREO@gmail.com">
+  <a href="juanvidalb91@gmail.com">
     <img src="https://img.shields.io/badge/CORREO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
