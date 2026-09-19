@@ -109,15 +109,6 @@ juan = {
 
 ---
 
-## 🤖 Inteligencia Artificial y Datos
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
-
-</p>
-
----
 
 ## 🔧 Herramientas
 
