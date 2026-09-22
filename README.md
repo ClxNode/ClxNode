@@ -83,33 +83,6 @@ juan = {
 
 ---
 
-## 🌐 Desarrollo Web
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flask" width="50"/>
-
-</p>
-
-<p align="center">
-  🌐 <strong>HTML</strong>
-  &nbsp;&nbsp;&nbsp;
-  🎨 <strong>CSS</strong>
-  &nbsp;&nbsp;&nbsp;
-  ⚡ <strong>JavaScript</strong>
-  &nbsp;&nbsp;&nbsp;
-  🧪 <strong>Flask</strong>
-</p>
-
----
-
-
 ## 🔧 Herramientas
 
 <p align="center">
