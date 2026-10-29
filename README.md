@@ -53,7 +53,6 @@ La mayor parte de lo que aprendo lo intento llevar a la práctica mediante proye
 ## 📊 Mi GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ClxNode&show_icons=true&theme=github_dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClxNode&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
